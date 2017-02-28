@@ -1,0 +1,235 @@
+.axis path {
+  stroke: none;
+  fill: none;
+}
+
+.axis line {
+  stroke: #CED3D6;
+  stroke-width: 1px;
+  fill: none;
+}
+
+.axis text {
+  font-family: "Proxima Nova Light";
+  stroke: none;
+  fill: #7C7B7A;
+}
+
+.title {
+  font-size: 24px;
+  stroke: none;
+  fill: #7C7B7A;
+  font-family: "Proxima Nova Light";
+}
+
+.legend-text {
+  stroke: none;
+  fill: #7C7B7A;
+}
+
+.blue {
+  fill: #297DFD;
+}
+
+.orange {
+  fill: #f7922e;
+}
+
+.teal {
+  fill: #37D6CC;
+}
+
+.purple {
+  fill: #995BB5;
+}
+
+.green {
+  fill: #43b649;
+}
+
+.brown {
+  fill: #b7661a;
+}
+
+.half-blue {
+  fill: #8eb7f4;
+}
+
+.half-orange {
+  fill: #ffc387;
+}
+
+.half-teal {
+  fill: #ade4e1;
+}
+
+.half-purple {
+  fill: #d3bae9;
+}
+
+.half-green {
+  fill: #9de0a0;
+}
+
+.half-brown {
+  fill: #d6af8b;
+}
+
+.white {
+  fill: black;
+  opacity: .05;
+}
+
+.title-text {
+  font-family: "Proxima Nova Light";
+  font-size: 24px;
+  stroke: none;
+  fill: #3A4F5A;
+}
+
+.label-text {
+  font-family: "Proxima Nova Light";
+  stroke: none;
+  fill: #7C7B7A;
+  font-size: 10px;
+}
+
+.checkbox-blue {
+  background-image: url("src/svg/checkbox-blue-unchecked.svg") !important;
+}
+
+.checkbox-blue:checked {
+  background-image: url("src/svg/checkbox-blue.svg") !important;
+}
+
+.checkbox-orange {
+  background-image: url("src/svg/checkbox-orange-unchecked.svg") !important;
+}
+
+.checkbox-orange:checked {
+  background-image: url("src/svg/checkbox-orange.svg") !important;
+}
+
+.checkbox-teal {
+  background-image: url("src/svg/checkbox-teal-unchecked.svg") !important;
+}
+
+.checkbox-teal:checked {
+  background-image: url("src/svg/checkbox-teal.svg") !important;
+}
+
+.checkbox-purple {
+  background-image: url("src/svg/checkbox-purple-unchecked.svg") !important;
+}
+
+.checkbox-purple:checked {
+  background-image: url("src/svg/checkbox-purple.svg") !important;
+}
+
+.checkbox-green {
+  background-image: url("src/svg/checkbox-green-unchecked.svg") !important;
+}
+
+.checkbox-green:checked {
+  background-image: url("src/svg/checkbox-green.svg") !important;
+}
+
+.checkbox-brown {
+  background-image: url("src/svg/checkbox-brown-unchecked.svg") !important;
+}
+
+.checkbox-brown:checked {
+  background-image: url("src/svg/checkbox-brown.svg") !important;
+}
+
+.center-piece {
+  text-align: center;
+}
+
+.legend-console {
+  margin-top: 50%;
+}
+
+.legend-label {
+  font-family: "Proxima Nova Light";
+  font-size: 18px;
+  stroke: none;
+  fill: #7C7B7A;
+  padding-left: 5px;
+}
+
+.a-path, .connectors {
+  stroke-width: 2px;
+}
+
+.a-path {
+  fill: none;
+}
+
+.connectors {
+  fill: white;
+}
+
+.circle-blue, .line-blue {
+  stroke: #297DFD;
+}
+
+.circle-orange, .line-orange {
+  stroke: #f7922e;
+}
+
+.circle-teal, .line-teal {
+  stroke: #37D6CC;
+}
+
+.circle-purple, .line-purple {
+  stroke: #995BB5;
+}
+
+.circle-green, .line-green {
+  stroke: #43b649;
+}
+
+.circle-brown, .line-brown {
+  stroke: #b7661a;
+}
+
+.x-bullet {
+  stroke: #CED3D6;
+  stroke-width: 2px;
+  fill: none;
+}
+
+.x-bullet text {
+  stroke: none;
+  fill: #7C7B7A;
+}
+
+.trendline-blue, .trendline-orange, .trendline-teal, .trendline-purple, .trendline-green, .trendline-brown {
+  stroke-width: 2px;
+  fill: none;
+}
+
+.trendline-blue {
+  stroke: #297DFD;
+}
+
+.trendline-orange {
+  stroke: #f7922e;
+}
+
+.trendline-teal {
+  stroke: #37D6CC;
+}
+
+.trendline-purple {
+  stroke: #995BB5;
+}
+
+.trendline-green {
+  stroke: #43b649;
+}
+
+.trendline-brown {
+  stroke: #b7661a;
+}

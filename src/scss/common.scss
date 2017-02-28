@@ -1,0 +1,99 @@
+@import 'colors';
+
+.axis {
+  path {
+    stroke: none;
+    fill: none;
+  }
+
+  line {
+    stroke: $gridline-grey;
+    stroke-width: 1px;
+    fill: none;
+  }
+
+  text {
+    font-family: "Proxima Nova Light";
+    stroke: none;
+    fill: $gridline-text-grey;
+  }
+}
+
+.title {
+  font-size: 24px;
+  stroke: none;
+  fill: $gridline-text-grey;
+  font-family: "Proxima Nova Light";
+}
+
+.legend-text {
+  stroke: none;
+  fill: $gridline-text-grey;
+}
+
+.blue {
+  fill: $blue;
+}
+
+.orange {
+  fill: $orange;
+}
+
+.teal {
+  fill: $teal;
+}
+
+.purple {
+  fill: $purple;
+}
+
+.green {
+  fill: $green;
+}
+
+.brown {
+  fill: $brown;
+}
+
+.half-blue {
+  fill: $half-blue;
+}
+
+.half-orange {
+  fill: $half-orange;
+}
+
+.half-teal {
+  fill: $half-teal;
+}
+
+.half-purple {
+  fill: $half-purple;
+}
+
+.half-green {
+  fill: $half-green;
+}
+
+.half-brown {
+  fill: $half-brown;
+}
+
+.white {
+  fill: black;
+  opacity: .05;
+}
+
+.title-text {
+  font-family: "Proxima Nova Light";
+  font-size: 24px;
+  stroke: none;
+  fill: $title-grey;
+}
+
+.label-text {
+  font-family: "Proxima Nova Light";
+  stroke: none;
+  fill: $gridline-text-grey;
+  font-size: 10px;
+}
